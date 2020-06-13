@@ -39,6 +39,6 @@ class User extends Authenticatable
 
     public function spaces()
     {
-        return $this-> hasMany(Space::class, 'user_id','id');
+        return $this->hasMany(Space::class, 'user_id', 'id');
     }
 }
