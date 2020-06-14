@@ -6,7 +6,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Browse Codespace</div>
+                <div class="card-header">Browse Hospital</div>
 
                 <div class="card-body">
                     <div style="height: 500px" id="mapContainer"></div>
